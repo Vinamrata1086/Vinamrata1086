@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <a href="https://github.com/Vinamrata1086/"> <h3> Vinamrata Rani </h3></a>
+  </p>
