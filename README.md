@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <p>
  <h2> <a href="https://github.com/Vinamrata1086/">  Vinamrata Rani </a><img src="https://o.remove.bg/downloads/83f27211-a0eb-494b-83cb-dcacdc2c3116/OIP-removebg-preview.png" width = 50></h2>
  </p>
- <div>
-  <img src=""
+ 
  <details>
 <summary>📊 Github Stats</summary>
 
