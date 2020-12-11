@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <a href="https://github.com/Vinamrata1086/"> <h3> Vinamrata Rani </h3></a>
-  </p>
+  <a href="https://github.com/Vinamrata1086/"> <h3> Vinamrata Rani </h3></a><img src="https://th.bing.com/th/id/OIP._Sgbbs1zuQMvx3TQeCXRSgAAAA?pid=Api&rs=1" width = 50>
+ </p>
+ <div>
+  <img src=""
