@@ -19,3 +19,8 @@ Here are some ideas to get you started:
  </p>
  <div>
   <img src=""
+ <details>
+<summary>📊 Github Stats</summary>
+
+
+</details>
