@@ -37,6 +37,6 @@ Here are some ideas to get you started:
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vinamrata1086&show_icons=true&theme=prussian" alt="Vinamrata Rni | Stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vinamrata1086&show_icons=true&theme=prussian" alt="Vinamrata Rani | Stats" /></p>
 
 </details>
